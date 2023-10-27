@@ -1,2 +1,2 @@
-from main import BookLover, BookLoverTestSuite
+from booklover.__main import BookLover, BookLoverTestSuite
 # print('package loaded')
